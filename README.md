@@ -1,4 +1,10 @@
 # All-Terrain-Life-Vest
+
+All Terrain Life Vest- IEA Raspverry Pi Competition Entry
+
+# Description 
+
+
 import RPi.GPIO as GPIO
 import time
 import os
